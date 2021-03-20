@@ -1,0 +1,2 @@
+1. We just need to write "npm int". npm means node package manager which is already install into your system when we install node.
+2. The fastest way to create package.json file write "npm init --yes". 
